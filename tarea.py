@@ -11,4 +11,3 @@ class Tarea:
 
     def terminar(self):
         self.listo = True
-        
